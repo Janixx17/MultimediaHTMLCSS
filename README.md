@@ -12,4 +12,4 @@ For the personal side, I selected a dark blue color, while I chose white for the
 https://www.figma.com/proto/6JrLqSmQxHDLWWp5DRbtFn/Multimedia-Curriculum?node-id=1-2&mode=design&t=NnDYBbJEClrI3VJh-1
 
 ## Github Pages Link
-https://janixx17.github.io.
+https://janixx17.github.io
